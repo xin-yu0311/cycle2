@@ -7,14 +7,14 @@ Members:
 #Dataset
 YRBS_2007.csv
 
-#short project Question1
+Question1
 Is the mean of HowTallAreYouWithoutShoesInMeters different from 1.70 meters?
 
 #Final Conclusion
 The average height of students is approximately 1.69 meters.
 Statistical analysis suggests a significant difference from 1.70 meters, but the difference is very small and may not be practically meaningful.
 
-#short project Question2
+Question2
 Is the proportion of students who felt sad or hopeless different from p0=0.30?
 
 #Final Conclusion
